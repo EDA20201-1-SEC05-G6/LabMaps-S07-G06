@@ -1,5 +1,11 @@
 #ISIS1225 - Estructura de un proyecto
 
+# Integrantes
+* Tomás Bedoya Calixto, t.bedoya@uniandes.edu.co, 202020689
+* Andrés Felipe Gómez García, af.gomezg1@uniandes.edu.co, 202021189
+
+----------------------------------
+
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
 
 Esta organización es una sugerencia que puede ser adaptada a  las necesidades y gustos de cada persona.
